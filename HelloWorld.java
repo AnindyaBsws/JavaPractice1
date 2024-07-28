@@ -1,4 +1,3 @@
-package JavaPractice1;
 
 public class HelloWorld
 {
