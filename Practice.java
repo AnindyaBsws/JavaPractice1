@@ -1,7 +1,12 @@
+import java.util.*;
+
+
 public class Practice {
     public static void main(String args[]) {
-        for(int i = 0; i < 100; i++) {
-            System.out.print(i);
-        }
+
+        Scanner sc = new Scanner(System.in);
+        String name = sc.nextLine();
+        System.out.println(name);
+
     }
 }
